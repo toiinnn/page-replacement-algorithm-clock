@@ -18,7 +18,7 @@ def verify():
         else:
             page[0] = 0
 
-#falta criar a Thread que verificará os 10 seg automicamente
+#falta criar a Thread que verificará os 10 seg automicamente!
 def main():       
     while(True):
         option = input("Deseja fazer o que?\n (1) Inserir página \n (2) Listar páginas\n (3) Sair\n \nSua opção:")
